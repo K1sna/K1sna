@@ -2,7 +2,7 @@
 
 # Hello. I'm Kisna.👋
 
-### Its a true start in github for me now
+### About me
 - 🔭 I’m currently learning Algorithm Security,Cryptography
 - 🌱 I used to work on ComputerVision & Deeplearning 
 - 💬 Welcome to my blog, you can comment [here](http://eotstxtab.top)
