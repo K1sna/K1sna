@@ -1,6 +1,6 @@
 
 
-# Hello world.I'm Kisna.👋
+# Hello. I'm Kisna.👋
 
 ### Its a true start in github for me now
 - 🔭 I’m currently learning Algorithm Security,Cryptography
