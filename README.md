@@ -1,6 +1,6 @@
 
 
-# Hello, there. I'm Kisna.👋
+# Hello there. I'm Kisna.👋
 
 ### About me
 - 🔭 I’m currently learning Security of Software and System, which is a new field for me.
