@@ -4,7 +4,7 @@
 
 ### About me
 - 🔭 I’m currently learning Security of Software and System, which is a new field for me.
-- 🌱 I used to work and still follow ComputerVision, Deeplearning and Cryptography.
+- 🌱 I used to work and still follow the trend of ComputerVision, Deeplearning and Cryptography.
 - 💬 Welcome to my blog, you can comment [here](http://eotstxtab.top)
 - ⚡ I would like to take notes in my Notion, some of them would be updated in my Blog. Also, I'm enriching my github from time to time...
 
