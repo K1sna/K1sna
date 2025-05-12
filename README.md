@@ -7,6 +7,7 @@
 - 🌱 I used to work on and still follow the trend of ComputerVision, Deeplearning, and Cryptography.
 - 💬 Welcome to my blog, you can comment [here](http://eotstxtab.top)
 - ⚡ I would like to take notes in my Notion, some of them would be updated in my Blog. Also, I'm enriching my GitHub from time to time...
+- 📫 If you have urgent issue, please contact my [research email address](changzhouhan@swin.edu.au)
 
 <!--
 Here are some ideas to get you started:
